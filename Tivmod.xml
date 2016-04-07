@@ -1,0 +1,24 @@
+<configuration plugin="tivmod">
+	<settings name="settings">
+
+		<set name="minlevel_level">0</set>
+		<set name="minlevel_money">0</set>
+		
+		
+		<set name="minlevel_kill">0</set>
+		<set name="minlevel_god">0</set>
+		<set name="minlevel_teleport">0</set>
+
+		<set name="minlevel_givemoney">100</set>
+		<set name="minlevel_givexp">100</set>
+
+		<set name="price_kill">7500</set>
+		<set name="price_god">7500</set>
+		<set name="price_teleport">3000</set>
+
+		<set name="hit_win_xp">20</set>
+		<set name="hit_win_money">40</set>
+
+		<set name="message_help">^7See your level/money use !level ^2[player] ^7or !money ^2[player]</set>
+	</settings>
+</configuration>
