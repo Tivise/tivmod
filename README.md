@@ -1,5 +1,6 @@
 
-WARNING: All the coded files are not all made by me, i used many things from others python developers from BigBrotherBot community (BigBrotherBot website + friends)
+WARNING: I get a big help from the BigBrotherBot Community and i get helped by my friend Reventon
+This plugin was made in 2017
 
 # tivmod
 My mod &amp; plugin for Urban Terror 4.2 or more+
