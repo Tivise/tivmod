@@ -1,3 +1,6 @@
+
+WARNING: All the coded files are not all made by me, i used many things from others python developers from BigBrotherBot community (BigBrotherBot website + friends)
+
 # tivmod
 My mod &amp; plugin for Urban Terror 4.2 or more+
 
@@ -43,5 +46,3 @@ Description: You can change how many you won coins with 1x hit.
 Description: You can change the message of !mh (!moneyhelp) command. I don't know what's you want so you can change it easly.
                 others:
 !topmoney > you can see now the name of players in top money ;)
-
-I fix some english fault (i know i'm bad sorry).
